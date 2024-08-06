@@ -51,7 +51,7 @@ public class TasksController : ControllerBase
     [HttpPut("{id}")]
     public async Task<IActionResult> PutTask(int id, TaskManagerApi.Models.Task task)
     {
-  
+        Console.WriteLine(id + " | " + task.Id + " | " );
         _context.Entry(task).State = EntityState.Modified;
 
         try

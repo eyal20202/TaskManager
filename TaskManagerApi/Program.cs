@@ -25,6 +25,8 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Task API", Version = "v1" });
 });
+builder.Services.AddHostedService<TaskReminderWorker>();
+builder.Services.AddSingleton<TaskReminderWorker>();
 
 var app = builder.Build();
 

@@ -135,3 +135,5 @@ C:\Users\eyal2\Documents\VSCodeProjects\task-manager\TaskManagerApi\obj\Debug\ne
 C:\Users\eyal2\Documents\VSCodeProjects\task-manager\TaskManagerApi\obj\Debug\net8.0\TaskManagerApi.pdb
 C:\Users\eyal2\Documents\VSCodeProjects\task-manager\TaskManagerApi\obj\Debug\net8.0\TaskManagerApi.genruntimeconfig.cache
 C:\Users\eyal2\Documents\VSCodeProjects\task-manager\TaskManagerApi\obj\Debug\net8.0\ref\TaskManagerApi.dll
+C:\Users\eyal2\Documents\VSCodeProjects\task-manager\TaskManagerApi\obj\Debug\net8.0\TaskManagerApi.sourcelink.json
+C:\Users\eyal2\Documents\VSCodeProjects\task-manager\TaskManagerApi\bin\Debug\net8.0\RabbitMQ.Client.dll
